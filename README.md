@@ -8,3 +8,5 @@ The dataset including real X-ray and CT from 5 specimen: [https://zenodo.org/rec
 
 ### 🌐 Project Page  
 For more details, visit our project website: [https://rflepp.github.io/BoneSubstructureContours2D3DRegistration/](https://rflepp.github.io/BoneSubstructureContours2D3DRegistration/)
+
+Pending patent application No. EP25168706.7.
